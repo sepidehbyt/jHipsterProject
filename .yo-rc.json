@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.jhipster.blog",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "monolith",
+    "baseName": "Blog",
+    "packageName": "org.jhipster.blog",
+    "packageFolder": "org/jhipster/blog",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YTFhZWExYjhjMzBjMzVmYTFjMmE5NDZiYTQ0ZmI5NjA4MzNkYjFiYzBhYmM1MTZjOTA2N2Y4MGU1YTg0ZWY2NGE2YjBhNzVmM2U2MGJlMDA5MDE0NDg5YzI3MTg4ZGQwNGJlYzlmOTdjYjBjNjg5NmFiMzkzY2U3NmJmOTBjYzQ=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ]
+  }
+}
