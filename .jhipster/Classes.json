@@ -1,0 +1,19 @@
+{
+    "name": "Classes",
+    "fields": [
+        {
+            "fieldName": "className",
+            "fieldType": "String"
+        }
+    ],
+    "relationships": [],
+    "changelogDate": "20180926065930",
+    "entityTableName": "classes",
+    "dto": "no",
+    "pagination": "no",
+    "service": "no",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "clientRootFolder": "",
+    "applications": "*"
+}
